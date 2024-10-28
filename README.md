@@ -1,5 +1,5 @@
 # Startup-Data-EDA
-Project Overview
+#Project Overview
 This project is the first I completed as part of my Data Science course, where I applied foundational skills in Exploratory Data Analysis (EDA) to analyze startup data.This project leverages Exploratory Data Analysis (EDA) techniques to gain insights into startup data, helping to identify key trends, patterns, and potential success factors. The goal is to understand and visualize data features that might influence startup performance and growth.
 
 Project Structure
